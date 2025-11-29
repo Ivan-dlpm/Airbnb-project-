@@ -5,7 +5,7 @@ In this project, I built an interactive Tableau dashboard to analyze short-term 
 
 <h2>Visualization</h2>
 
-- <b>[tableau](https://public.tableau.com/app/profile/ivan.de.la.paz/viz/AirbnbFullproject_17595288420480/Dashboard1
+- <b>[Tableau](https://public.tableau.com/app/profile/ivan.de.la.paz/viz/AirbnbFullproject_17595288420480/Dashboard1
 )</b>
 
 <p align="center">
